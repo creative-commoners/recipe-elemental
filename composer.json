@@ -6,6 +6,7 @@
         "silverstripe/recipe-plugin": ">=0.1@dev <1.0",
         "silverstripe/recipe-cms": "1.0.x-dev",
         "silverstripe-themes/simple": "~3.2.0",
+        "dnadesign/silverstripe-elemental": "dev-ss4 as dev-master",
         "dnadesign/silverstripe-elemental-skeletons": "dev-master"
     },
     "require-dev": {
